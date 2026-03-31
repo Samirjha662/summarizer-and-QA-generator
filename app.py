@@ -1,4 +1,5 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import streamlit as st
 import os
 from backend.text_extractor import extract_text_from_pdf, clean_text
