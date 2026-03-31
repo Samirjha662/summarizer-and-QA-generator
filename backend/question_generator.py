@@ -33,9 +33,11 @@ Rules:
 Format EXACTLY like this:
 
 Q1: What is AI?
+space
 A1: AI is artificial intelligence.
-
+space
 Q2: What is machine learning?
+
 A2: Machine learning is a subset of AI.
        
 
